@@ -89,4 +89,4 @@ lerna-debug.log
 Thumbs.db　
 
 # Build folder
-dist/*
+dist/
