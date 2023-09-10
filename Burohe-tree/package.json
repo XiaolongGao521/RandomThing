@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "enumify": "^2.0.0",
+    "three": "^0.155.0",
+    "vite": "^4.4.9"
+  },
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
